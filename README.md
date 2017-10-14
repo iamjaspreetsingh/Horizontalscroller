@@ -1,2 +1,2 @@
 # Horizontalscroller
-Usage of horizontal scroller and linking with firebase
+Usage of horizontal scroller on activity 
